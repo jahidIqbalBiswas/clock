@@ -10,4 +10,4 @@ function clock() {
     document.getElementById("second").innerText = second;
     document.getElementById("ampm").innerText = ampm;
 }
-setInterval(clock,1000)
+setInterval(clock,1000) 
